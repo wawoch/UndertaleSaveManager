@@ -1,4 +1,4 @@
-   -= UndertaleSaveManager v2.3 =-
+   -= UndertaleSaveManager v2.2 =-
 
 С помощью этой программы вы сможете менять своё сохранение в UNDERTALE.
 
